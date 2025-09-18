@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @notnagesh
-- 👀 I’m interested in just creating software and learning about them, I am looking forward to learn practical knowledge and build cool projects 
-- 🌱 I’m currently learning java, c++.c,python and open to learn new languages
-- 💞️ I’m looking to collaborate on projects , just hit me up
-- 📫 How to reach me 
+- 👋 Hi, I’m Nagesh
+- 👀 I’m interested in developing software , I like to build unique projects 
+- 🌱 I’m currently learning python and open to learn new technologies
+- 💞️ I’m looking to collaborate on projects 
+
 
 <!---
 notnagesh/notnagesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
